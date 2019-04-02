@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.02.03.30.36",
+	"version": "2019.04.02.04.31.06",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -137,9 +137,6 @@
 			"name": "SoundingRockets"
 		},
 		{
-			"name": "StageRecovery"
-		},
-		{
 			"name": "Trajectories"
 		},
 		{
@@ -173,16 +170,10 @@
 			"name": "Toolbar"
 		},
 		{
-			"name": "ScienceAlert"
-		},
-		{
 			"name": "JSIAdvancedTransparentPods"
 		},
 		{
 			"name": "xScienceContinued"
-		},
-		{
-			"name": "ToolbarController"
 		},
 		{
 			"name": "ClickThroughBlocker"
@@ -206,37 +197,13 @@
 			"name": "USI-EXP"
 		},
 		{
-			"name": "BetterTimeWarpCont"
-		},
-		{
-			"name": "CraftManager"
-		},
-		{
 			"name": "DraggableAltimeter"
 		},
 		{
 			"name": "DraggableNavball"
 		},
 		{
-			"name": "ExtrasolarPlanetsBeyondKerbol-stock"
-		},
-		{
-			"name": "GolderSystem"
-		},
-		{
 			"name": "Kerbalized-SpaceX"
-		},
-		{
-			"name": "KerbalKonstructs"
-		},
-		{
-			"name": "KerbolOrigins"
-		},
-		{
-			"name": "KolyphemusSystemContinued"
-		},
-		{
-			"name": "Kopernicus"
 		},
 		{
 			"name": "MicroSatRevived"
@@ -246,9 +213,6 @@
 		},
 		{
 			"name": "Mk3Expansion"
-		},
-		{
-			"name": "MorimeeSystem"
 		},
 		{
 			"name": "NearFutureElectrical"
@@ -263,22 +227,13 @@
 			"name": "NehemiahEngineeringOrbitalScience"
 		},
 		{
-			"name": "notes"
-		},
-		{
 			"name": "Nuke-TinyParts"
-		},
-		{
-			"name": "OuterKerbin"
 		},
 		{
 			"name": "PicoPort"
 		},
 		{
 			"name": "PicoPort4AllSizes"
-		},
-		{
-			"name": "PlanetDunope"
 		},
 		{
 			"name": "RaginCaucasian"
@@ -297,18 +252,6 @@
 		},
 		{
 			"name": "Targetron"
-		},
-		{
-			"name": "ThalassaSystem"
-		},
-		{
-			"name": "TopiaiSystem"
-		},
-		{
-			"name": "VarutaSystem"
-		},
-		{
-			"name": "WorldStabilizer"
 		},
 		{
 			"name": "JanitorsCloset"
