@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.02.05.30.43",
+	"version": "2019.04.02.06.18.00",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -87,9 +87,6 @@
 		},
 		{
 			"name": "PEBKACIndustriesLaunchEscapeSystem"
-		},
-		{
-			"name": "PlanetaryDiversity"
 		},
 		{
 			"name": "RasterPropMonitor"
@@ -195,12 +192,6 @@
 		},
 		{
 			"name": "USI-EXP"
-		},
-		{
-			"name": "DraggableAltimeter"
-		},
-		{
-			"name": "DraggableNavball"
 		},
 		{
 			"name": "Kerbalized-SpaceX"
