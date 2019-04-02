@@ -8,4 +8,4 @@ wget http://godarklight.info.tm/dmp/downloads/plugins/DMPServerListReporter2/DMP
 sudo apt install mono-runtime monodevelopment -y
 mono DMPServer.exe
 ```
-You, of course, need to setup the configuration and more information on how to do that can be found here: 
+You, of course, need to setup the configuration and more information on how to do that can be found here: <a href="http://d-mp.org/w/Main_Page">DMP Wiki</a>
