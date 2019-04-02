@@ -1,5 +1,8 @@
 # KSP_ModdedMultiPlayer for Linux Servers
 
+If you are here for just the mods, this is the file you need <a href="4-02-2019.ckan">4-02-2019.ckan</a>
+
+# Server Setup
 - The following is how to install the required parts for DarkMultiPlayer and the Mods needed for my server. You only need DarkMultiPlayer to do this without all my mods.
 - Port 6702 needs to be forwarded in your router
 ```
