@@ -1,1 +1,1 @@
-<?= $data["server_name"]; ?><?= $data["game_mode"]; ?><?= $data["player_count"]; ?><?= $data["players"]; ?><?= $data["warp_mode"]; ?>
+<?php include "http://ksp.devgru.club/stats.php"; ?>
