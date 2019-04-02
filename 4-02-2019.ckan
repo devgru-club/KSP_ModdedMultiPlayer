@@ -1,0 +1,359 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the auto KSP instance",
+	"name": "installed-auto",
+	"license": "unknown",
+	"version": "2019.04.02.02.31.18",
+	"identifier": "installed-auto",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "Achievements"
+		},
+		{
+			"name": "Chatterer"
+		},
+		{
+			"name": "CollisionFXUpdated"
+		},
+		{
+			"name": "ConstellationEssentials"
+		},
+		{
+			"name": "DarkMultiPlayer"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "DMagicOrbitalScience"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "DockingPortSoundFX"
+		},
+		{
+			"name": "EVAStruts"
+		},
+		{
+			"name": "EVATransfer"
+		},
+		{
+			"name": "FASA"
+		},
+		{
+			"name": "FinalFrontier"
+		},
+		{
+			"name": "HullcamVDSContinued"
+		},
+		{
+			"name": "HyperEdit"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "Kerbalism"
+		},
+		{
+			"name": "KerbalKrashSystem"
+		},
+		{
+			"name": "KerbalPlanetaryBaseSystems"
+		},
+		{
+			"name": "KIS"
+		},
+		{
+			"name": "KWRocketryRebalanced"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "NovaPunchRebalanced"
+		},
+		{
+			"name": "PEBKACIndustriesLaunchEscapeSystem"
+		},
+		{
+			"name": "PlanetaryDiversity"
+		},
+		{
+			"name": "RasterPropMonitor"
+		},
+		{
+			"name": "RasterPropMonitor-Core"
+		},
+		{
+			"name": "RealChute"
+		},
+		{
+			"name": "ReentryParticleEffect"
+		},
+		{
+			"name": "ReStock"
+		},
+		{
+			"name": "ReStockPlus"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "Science-Full-Transmit"
+		},
+		{
+			"name": "ScienceRelay"
+		},
+		{
+			"name": "ShuttleLiftingBodyCormorantAeronology"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "SolarScience"
+		},
+		{
+			"name": "SoundingRockets"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "Trajectories"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "UniversalStorage2"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "TriggerAu-Flags"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "NovaPunchRebalanced-Freyja"
+		},
+		{
+			"name": "NovaPunchRebalanced-Odin"
+		},
+		{
+			"name": "NovaPunchRebalanced-Thor"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "ScienceAlert"
+		},
+		{
+			"name": "JSIAdvancedTransparentPods"
+		},
+		{
+			"name": "xScienceContinued"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "USI-EXP"
+		},
+		{
+			"name": "BetterScienceLabsContinued"
+		},
+		{
+			"name": "BetterTimeWarpCont"
+		},
+		{
+			"name": "CraftManager"
+		},
+		{
+			"name": "DraggableAltimeter"
+		},
+		{
+			"name": "DraggableNavball"
+		},
+		{
+			"name": "ExtrasolarPlanetsBeyondKerbol-stock"
+		},
+		{
+			"name": "GolderSystem"
+		},
+		{
+			"name": "Kerbalized-SpaceX"
+		},
+		{
+			"name": "KerbalKonstructs"
+		},
+		{
+			"name": "KerbolOrigins"
+		},
+		{
+			"name": "KolyphemusSystemContinued"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "MicroSatRevived"
+		},
+		{
+			"name": "Mk2Expansion"
+		},
+		{
+			"name": "Mk3Expansion"
+		},
+		{
+			"name": "MorimeeSystem"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "NehemiahEngineeringOrbitalScience"
+		},
+		{
+			"name": "notes"
+		},
+		{
+			"name": "Nuke-TinyParts"
+		},
+		{
+			"name": "OuterKerbin"
+		},
+		{
+			"name": "PicoPort"
+		},
+		{
+			"name": "PicoPort4AllSizes"
+		},
+		{
+			"name": "PlanetDunope"
+		},
+		{
+			"name": "RaginCaucasian"
+		},
+		{
+			"name": "SETI-ProbeParts"
+		},
+		{
+			"name": "SixCrewScienceLab"
+		},
+		{
+			"name": "SixSeatMk3cockpit"
+		},
+		{
+			"name": "StationalConstructs"
+		},
+		{
+			"name": "TALRadiallyAttachedExperimentalDataStorageContainer"
+		},
+		{
+			"name": "Targetron"
+		},
+		{
+			"name": "ThalassaSystem"
+		},
+		{
+			"name": "TopiaiSystem"
+		},
+		{
+			"name": "TundraTechnologies"
+		},
+		{
+			"name": "VarutaSystem"
+		},
+		{
+			"name": "WorldStabilizer"
+		},
+		{
+			"name": "JanitorsCloset"
+		},
+		{
+			"name": "Corvus125mTwoKerbalPod"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "SpacetuxSA"
+		},
+		{
+			"name": "KXAPI"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "FerramAerospaceResearchContinued"
+		}
+	]
+}
