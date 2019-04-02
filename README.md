@@ -1,6 +1,7 @@
 # KSP_ModdedMultiPlayer for Linux Servers
 
 If you are here for just the mods, this is the file you need <a href="4-02-2019.ckan">4-02-2019.ckan</a>
+You are going to need more than 8Gb of RAM to play on our server because KSP has to load all of the parts into memory.
 
 # Server Setup
 - The following is how to install the required parts for DarkMultiPlayer and the Mods needed for my server. You only need DarkMultiPlayer to do this without all my mods.
