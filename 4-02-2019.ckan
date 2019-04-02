@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.02.04.31.06",
+	"version": "2019.04.02.05.30.43",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -285,6 +285,60 @@
 		},
 		{
 			"name": "FerramAerospaceResearchContinued"
+		},
+		{
+			"name": "Atoren"
+		},
+		{
+			"name": "BetterScienceLabsContinued"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "SpacetuxSA"
+		},
+		{
+			"name": "MorimeeSystem"
+		},
+		{
+			"name": "ThalassaSystem"
+		},
+		{
+			"name": "TopiaiSystem"
+		},
+		{
+			"name": "VarutaSystem"
+		},
+		{
+			"name": "ScienceAlert"
+		},
+		{
+			"name": "SETI-ProbeParts"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "JoolBiomes"
+		},
+		{
+			"name": "KerbalGPSRevived"
+		},
+		{
+			"name": "MiniAirbrakes"
+		},
+		{
+			"name": "OuterKerbin"
+		},
+		{
+			"name": "ContractConfigurator"
+		},
+		{
+			"name": "Milkyway-Skybox-SpaceEngine"
 		}
 	]
 }
