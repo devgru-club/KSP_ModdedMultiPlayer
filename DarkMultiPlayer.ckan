@@ -3,19 +3,10 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.02.06.18.00",
+	"version": "2019.04.04.08.21.57",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
-		{
-			"name": "Achievements"
-		},
-		{
-			"name": "Chatterer"
-		},
-		{
-			"name": "CollisionFXUpdated"
-		},
 		{
 			"name": "ConstellationEssentials"
 		},
@@ -47,12 +38,6 @@
 			"name": "FASA"
 		},
 		{
-			"name": "FinalFrontier"
-		},
-		{
-			"name": "HullcamVDSContinued"
-		},
-		{
 			"name": "HyperEdit"
 		},
 		{
@@ -63,9 +48,6 @@
 		},
 		{
 			"name": "Kerbalism"
-		},
-		{
-			"name": "KerbalKrashSystem"
 		},
 		{
 			"name": "KerbalPlanetaryBaseSystems"
@@ -95,19 +77,10 @@
 			"name": "RasterPropMonitor-Core"
 		},
 		{
-			"name": "RealChute"
-		},
-		{
-			"name": "ReentryParticleEffect"
-		},
-		{
 			"name": "ReStock"
 		},
 		{
 			"name": "ReStockPlus"
-		},
-		{
-			"name": "SCANsat"
 		},
 		{
 			"name": "Scatterer"
@@ -116,22 +89,13 @@
 			"name": "Scatterer-sunflare"
 		},
 		{
-			"name": "Science-Full-Transmit"
-		},
-		{
 			"name": "ScienceRelay"
 		},
 		{
 			"name": "ShuttleLiftingBodyCormorantAeronology"
 		},
 		{
-			"name": "SmokeScreen"
-		},
-		{
 			"name": "SolarScience"
-		},
-		{
-			"name": "SoundingRockets"
 		},
 		{
 			"name": "Trajectories"
@@ -164,16 +128,13 @@
 			"name": "NovaPunchRebalanced-Thor"
 		},
 		{
-			"name": "Toolbar"
+			"name": "Kopernicus"
 		},
 		{
 			"name": "JSIAdvancedTransparentPods"
 		},
 		{
 			"name": "xScienceContinued"
-		},
-		{
-			"name": "ClickThroughBlocker"
 		},
 		{
 			"name": "CommunityResourcePack"
@@ -218,15 +179,6 @@
 			"name": "NehemiahEngineeringOrbitalScience"
 		},
 		{
-			"name": "Nuke-TinyParts"
-		},
-		{
-			"name": "PicoPort"
-		},
-		{
-			"name": "PicoPort4AllSizes"
-		},
-		{
 			"name": "RaginCaucasian"
 		},
 		{
@@ -239,13 +191,7 @@
 			"name": "StationalConstructs"
 		},
 		{
-			"name": "TALRadiallyAttachedExperimentalDataStorageContainer"
-		},
-		{
 			"name": "Targetron"
-		},
-		{
-			"name": "JanitorsCloset"
 		},
 		{
 			"name": "Corvus125mTwoKerbalPod"
@@ -255,9 +201,6 @@
 		},
 		{
 			"name": "KXAPI"
-		},
-		{
-			"name": "ModularFlightIntegrator"
 		},
 		{
 			"name": "B9PartSwitch"
@@ -275,55 +218,40 @@
 			"name": "NearFutureProps"
 		},
 		{
-			"name": "FerramAerospaceResearchContinued"
+			"name": "BetterScienceLabsContinued"
 		},
 		{
 			"name": "Atoren"
 		},
 		{
-			"name": "BetterScienceLabsContinued"
-		},
-		{
-			"name": "Kopernicus"
-		},
-		{
 			"name": "SpacetuxSA"
 		},
 		{
-			"name": "MorimeeSystem"
+			"name": "ClickThroughBlocker"
 		},
 		{
-			"name": "ThalassaSystem"
-		},
-		{
-			"name": "TopiaiSystem"
+			"name": "OuterKerbin"
 		},
 		{
 			"name": "VarutaSystem"
 		},
 		{
-			"name": "ScienceAlert"
+			"name": "TopiaiSystem"
 		},
 		{
 			"name": "SETI-ProbeParts"
 		},
 		{
-			"name": "StageRecovery"
+			"name": "ModularFlightIntegrator"
 		},
 		{
-			"name": "ToolbarController"
+			"name": "ThalassaSystem"
 		},
 		{
-			"name": "JoolBiomes"
+			"name": "Toolbar"
 		},
 		{
-			"name": "KerbalGPSRevived"
-		},
-		{
-			"name": "MiniAirbrakes"
-		},
-		{
-			"name": "OuterKerbin"
+			"name": "MorimeeSystem"
 		},
 		{
 			"name": "ContractConfigurator"
