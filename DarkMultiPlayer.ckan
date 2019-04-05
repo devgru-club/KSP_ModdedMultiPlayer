@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.05.06.34.56",
+	"version": "2019.04.05.08.05.26",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -42,9 +42,6 @@
 		},
 		{
 			"name": "KerbalAlarmClock"
-		},
-		{
-			"name": "KerbalEngineerRedux"
 		},
 		{
 			"name": "Kerbalism"
