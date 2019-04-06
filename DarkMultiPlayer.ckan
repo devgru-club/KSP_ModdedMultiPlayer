@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.06.05.08.24",
+	"version": "2019.04.06.09.31.31",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -162,6 +162,15 @@
 		},
 		{
 			"name": "Milkyway-Skybox-SpaceEngine"
+		},
+		{
+			"name": "Mk2Expansion"
+		},
+		{
+			"name": "Mk3Expansion"
+		},
+		{
+			"name": "RaginCaucasian"
 		}
 	]
 }
