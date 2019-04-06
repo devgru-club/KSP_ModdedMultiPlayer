@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.06.11.23.17",
+	"version": "2019.04.06.11.36.33",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -137,7 +137,7 @@
 			"name": "MorimeeSystem"
 		},
 		{
-			"name": "Milkyway-Skybox-SpaceEngine"
+			"name": "PoodsCalmNebulaSkybox"
 		},
 		{
 			"name": "Mk2Expansion"
@@ -156,6 +156,15 @@
 		},
 		{
 			"name": "DeployableEngines"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "Scatterer-config"
 		}
 	]
 }
