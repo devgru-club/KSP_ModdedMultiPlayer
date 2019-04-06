@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.06.05.43.17",
+	"version": "2019.04.06.10.54.55",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -23,16 +23,10 @@
 			"name": "DockingPortAlignmentIndicator"
 		},
 		{
-			"name": "DockingPortSoundFX"
-		},
-		{
 			"name": "EVAStruts"
 		},
 		{
 			"name": "EVATransfer"
-		},
-		{
-			"name": "HyperEdit"
 		},
 		{
 			"name": "KerbalAlarmClock"
@@ -68,19 +62,7 @@
 			"name": "ReStockPlus"
 		},
 		{
-			"name": "Scatterer"
-		},
-		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "ScienceRelay"
-		},
-		{
 			"name": "ShuttleLiftingBodyCormorantAeronology"
-		},
-		{
-			"name": "Trajectories"
 		},
 		{
 			"name": "TweakScale"
@@ -101,9 +83,6 @@
 			"name": "Kopernicus"
 		},
 		{
-			"name": "JSIAdvancedTransparentPods"
-		},
-		{
 			"name": "CommunityResourcePack"
 		},
 		{
@@ -114,9 +93,6 @@
 		},
 		{
 			"name": "TextureReplacer"
-		},
-		{
-			"name": "Scatterer-config"
 		},
 		{
 			"name": "USI-EXP"
@@ -188,9 +164,6 @@
 			"name": "NearFutureSpacecraft"
 		},
 		{
-			"name": "KerbalAtomics"
-		},
-		{
 			"name": "StationPartsExpansionRedux"
 		},
 		{
@@ -206,7 +179,7 @@
 			"name": "NearFutureProps"
 		},
 		{
-			"name": "CryoTanks"
+			"name": "KerbalPlanetaryBaseSystems"
 		},
 		{
 			"name": "DeployableEngines"
