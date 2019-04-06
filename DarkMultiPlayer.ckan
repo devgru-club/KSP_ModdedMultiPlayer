@@ -3,13 +3,10 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.05.08.05.26",
+	"version": "2019.04.06.05.08.24",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
-		{
-			"name": "ConstellationEssentials"
-		},
 		{
 			"name": "DarkMultiPlayer"
 		},
@@ -35,9 +32,6 @@
 			"name": "EVATransfer"
 		},
 		{
-			"name": "FASA"
-		},
-		{
 			"name": "HyperEdit"
 		},
 		{
@@ -45,9 +39,6 @@
 		},
 		{
 			"name": "Kerbalism"
-		},
-		{
-			"name": "KerbalPlanetaryBaseSystems"
 		},
 		{
 			"name": "KIS"
@@ -63,9 +54,6 @@
 		},
 		{
 			"name": "NovaPunchRebalanced"
-		},
-		{
-			"name": "PEBKACIndustriesLaunchEscapeSystem"
 		},
 		{
 			"name": "RasterPropMonitor"
@@ -92,9 +80,6 @@
 			"name": "ShuttleLiftingBodyCormorantAeronology"
 		},
 		{
-			"name": "SolarScience"
-		},
-		{
 			"name": "Trajectories"
 		},
 		{
@@ -113,25 +98,10 @@
 			"name": "CommunityCategoryKit"
 		},
 		{
-			"name": "CommunityTechTree"
-		},
-		{
-			"name": "NovaPunchRebalanced-Freyja"
-		},
-		{
-			"name": "NovaPunchRebalanced-Odin"
-		},
-		{
-			"name": "NovaPunchRebalanced-Thor"
-		},
-		{
 			"name": "Kopernicus"
 		},
 		{
 			"name": "JSIAdvancedTransparentPods"
-		},
-		{
-			"name": "xScienceContinued"
 		},
 		{
 			"name": "CommunityResourcePack"
@@ -152,46 +122,10 @@
 			"name": "USI-EXP"
 		},
 		{
-			"name": "Kerbalized-SpaceX"
-		},
-		{
-			"name": "MicroSatRevived"
-		},
-		{
-			"name": "Mk2Expansion"
-		},
-		{
-			"name": "Mk3Expansion"
-		},
-		{
-			"name": "NearFutureElectrical"
-		},
-		{
-			"name": "NearFutureSolar"
-		},
-		{
-			"name": "NearFutureSpacecraft"
-		},
-		{
-			"name": "RaginCaucasian"
-		},
-		{
-			"name": "SixCrewScienceLab"
-		},
-		{
-			"name": "SixSeatMk3cockpit"
-		},
-		{
 			"name": "StationalConstructs"
 		},
 		{
 			"name": "Targetron"
-		},
-		{
-			"name": "Corvus125mTwoKerbalPod"
-		},
-		{
-			"name": "StationPartsExpansionRedux"
 		},
 		{
 			"name": "KXAPI"
@@ -200,25 +134,7 @@
 			"name": "B9PartSwitch"
 		},
 		{
-			"name": "NearFutureElectrical-Core"
-		},
-		{
-			"name": "DynamicBatteryStorage"
-		},
-		{
-			"name": "NearFutureSolar-Core"
-		},
-		{
-			"name": "NearFutureProps"
-		},
-		{
-			"name": "BetterScienceLabsContinued"
-		},
-		{
 			"name": "Atoren"
-		},
-		{
-			"name": "SpacetuxSA"
 		},
 		{
 			"name": "ClickThroughBlocker"
@@ -233,9 +149,6 @@
 			"name": "TopiaiSystem"
 		},
 		{
-			"name": "SETI-ProbeParts"
-		},
-		{
 			"name": "ModularFlightIntegrator"
 		},
 		{
@@ -246,9 +159,6 @@
 		},
 		{
 			"name": "MorimeeSystem"
-		},
-		{
-			"name": "ContractConfigurator"
 		},
 		{
 			"name": "Milkyway-Skybox-SpaceEngine"
