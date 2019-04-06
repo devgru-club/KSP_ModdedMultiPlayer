@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.06.10.54.55",
+	"version": "2019.04.06.11.23.17",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -149,34 +149,7 @@
 			"name": "RaginCaucasian"
 		},
 		{
-			"name": "NearFutureElectrical"
-		},
-		{
-			"name": "NearFutureLaunchVehicles"
-		},
-		{
-			"name": "NearFuturePropulsion"
-		},
-		{
-			"name": "NearFutureSolar"
-		},
-		{
-			"name": "NearFutureSpacecraft"
-		},
-		{
-			"name": "StationPartsExpansionRedux"
-		},
-		{
-			"name": "NearFutureElectrical-Core"
-		},
-		{
 			"name": "DynamicBatteryStorage"
-		},
-		{
-			"name": "NearFutureSolar-Core"
-		},
-		{
-			"name": "NearFutureProps"
 		},
 		{
 			"name": "KerbalPlanetaryBaseSystems"
