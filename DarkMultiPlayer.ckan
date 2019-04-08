@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.06.11.36.33",
+	"version": "2019.04.08.05.23.40",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -101,9 +101,6 @@
 			"name": "StationalConstructs"
 		},
 		{
-			"name": "Targetron"
-		},
-		{
 			"name": "KXAPI"
 		},
 		{
@@ -149,13 +146,7 @@
 			"name": "RaginCaucasian"
 		},
 		{
-			"name": "DynamicBatteryStorage"
-		},
-		{
 			"name": "KerbalPlanetaryBaseSystems"
-		},
-		{
-			"name": "DeployableEngines"
 		},
 		{
 			"name": "Scatterer"
