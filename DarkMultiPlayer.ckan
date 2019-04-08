@@ -3,180 +3,177 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.08.06.25.17",
+	"version": "2019.04.08.10.57.26",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
 		{
-			"name": "DarkMultiPlayer"
-		},
-		{
-			"name": "DistantObject"
-		},
-		{
-			"name": "DistantObject-default"
-		},
-		{
-			"name": "DMagicOrbitalScience"
-		},
-		{
-			"name": "DockingPortAlignmentIndicator"
-		},
-		{
-			"name": "EVAStruts"
-		},
-		{
-			"name": "EVATransfer"
-		},
-		{
-			"name": "KerbalAlarmClock"
-		},
-		{
-			"name": "KerbnetController"
-		},
-		{
-			"name": "KIS"
-		},
-		{
-			"name": "KWRocketryRebalanced"
-		},
-		{
-			"name": "MechJeb2"
-		},
-		{
-			"name": "MechJebForAll"
-		},
-		{
-			"name": "NovaPunchRebalanced"
-		},
-		{
-			"name": "RasterPropMonitor"
-		},
-		{
-			"name": "RasterPropMonitor-Core"
-		},
-		{
-			"name": "ReStock"
-		},
-		{
-			"name": "ReStockPlus"
-		},
-		{
-			"name": "ShuttleLiftingBodyCormorantAeronology"
-		},
-		{
-			"name": "TweakScale"
-		},
-		{
-			"name": "UniversalStorage2"
-		},
-		{
-			"name": "ModuleManager"
-		},
-		{
-			"name": "TriggerAu-Flags"
-		},
-		{
-			"name": "CommunityCategoryKit"
-		},
-		{
-			"name": "Kopernicus"
-		},
-		{
-			"name": "CommunityResourcePack"
-		},
-		{
-			"name": "FirespitterCore"
-		},
-		{
-			"name": "USITools"
-		},
-		{
-			"name": "TextureReplacer"
-		},
-		{
-			"name": "USI-EXP"
-		},
-		{
-			"name": "StationalConstructs"
-		},
-		{
-			"name": "KXAPI"
-		},
-		{
-			"name": "B9PartSwitch"
-		},
-		{
-			"name": "Atoren"
-		},
-		{
-			"name": "ClickThroughBlocker"
-		},
-		{
-			"name": "OuterKerbin"
-		},
-		{
-			"name": "VarutaSystem"
-		},
-		{
-			"name": "TopiaiSystem"
-		},
-		{
-			"name": "ModularFlightIntegrator"
-		},
-		{
-			"name": "ThalassaSystem"
-		},
-		{
-			"name": "Toolbar"
-		},
-		{
-			"name": "MorimeeSystem"
-		},
-		{
-			"name": "PoodsCalmNebulaSkybox"
-		},
-		{
-			"name": "Mk2Expansion"
-		},
-		{
-			"name": "Mk3Expansion"
-		},
-		{
-			"name": "RaginCaucasian"
-		},
-		{
-			"name": "KerbalPlanetaryBaseSystems"
-		},
-		{
-			"name": "Scatterer"
-		},
-		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "Scatterer-config"
-		},
-		{
-			"name": "SpacetuxSA"
-		},
-		{
-			"name": "SCANsat"
-		},
-		{
-			"name": "SolarScience"
-		},
-		{
-			"name": "ManeuverNodeEvolved"
-		},
-		{
-			"name": "TACLS"
+			"name": "KerbalEngineerRedux"
 		},
 		{
 			"name": "BackgroundResources"
 		},
 		{
-			"name": "KerbalEngineerRedux"
+			"name": "TACLS"
+		},
+		{
+			"name": "SolarScience"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "SpacetuxSA"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "KerbalPlanetaryBaseSystems"
+		},
+		{
+			"name": "RaginCaucasian"
+		},
+		{
+			"name": "Mk3Expansion"
+		},
+		{
+			"name": "Mk2Expansion"
+		},
+		{
+			"name": "PoodsCalmNebulaSkybox"
+		},
+		{
+			"name": "MorimeeSystem"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "ThalassaSystem"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "TopiaiSystem"
+		},
+		{
+			"name": "VarutaSystem"
+		},
+		{
+			"name": "OuterKerbin"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "Atoren"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "KXAPI"
+		},
+		{
+			"name": "StationalConstructs"
+		},
+		{
+			"name": "USI-EXP"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "TriggerAu-Flags"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "UniversalStorage2"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "ShuttleLiftingBodyCormorantAeronology"
+		},
+		{
+			"name": "ReStockPlus"
+		},
+		{
+			"name": "ReStock"
+		},
+		{
+			"name": "RasterPropMonitor-Core"
+		},
+		{
+			"name": "RasterPropMonitor"
+		},
+		{
+			"name": "NovaPunchRebalanced"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "KWRocketryRebalanced"
+		},
+		{
+			"name": "KIS"
+		},
+		{
+			"name": "KerbnetController"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "EVATransfer"
+		},
+		{
+			"name": "EVAStruts"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "DMagicOrbitalScience"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "DarkMultiPlayer"
 		}
 	]
 }
