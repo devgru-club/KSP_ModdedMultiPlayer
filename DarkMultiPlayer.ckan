@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.08.06.12.34",
+	"version": "2019.04.08.06.25.17",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -32,7 +32,7 @@
 			"name": "KerbalAlarmClock"
 		},
 		{
-			"name": "Kerbalism"
+			"name": "KerbnetController"
 		},
 		{
 			"name": "KIS"
@@ -165,6 +165,18 @@
 		},
 		{
 			"name": "SolarScience"
+		},
+		{
+			"name": "ManeuverNodeEvolved"
+		},
+		{
+			"name": "TACLS"
+		},
+		{
+			"name": "BackgroundResources"
+		},
+		{
+			"name": "KerbalEngineerRedux"
 		}
 	]
 }
