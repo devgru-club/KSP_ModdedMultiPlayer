@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.09.08.30.05",
+	"version": "2019.04.09.08.56.58",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -123,12 +123,6 @@
 		},
 		{
 			"name": "ReStock"
-		},
-		{
-			"name": "RasterPropMonitor-Core"
-		},
-		{
-			"name": "RasterPropMonitor"
 		},
 		{
 			"name": "NovaPunchRebalanced"
@@ -353,12 +347,6 @@
 			"name": "TheWorldBeyond"
 		},
 		{
-			"name": "KS3P"
-		},
-		{
-			"name": "KSPInterstellarExtended"
-		},
-		{
 			"name": "InterstellarFuelSwitch"
 		},
 		{
@@ -372,9 +360,6 @@
 		},
 		{
 			"name": "HeatControl"
-		},
-		{
-			"name": "UniversalStorage"
 		},
 		{
 			"name": "KerbalJointReinforcementContinued"
