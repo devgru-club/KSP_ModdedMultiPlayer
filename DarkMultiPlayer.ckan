@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.08.11.36.43",
+	"version": "2019.04.09.02.42.24",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -225,6 +225,72 @@
 		},
 		{
 			"name": "ToolbarController"
+		},
+		{
+			"name": "NearFutureConstruction"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "NearFuturePropulsion"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "NearFutureSpacecraft-OrbitalLFOEngines"
+		},
+		{
+			"name": "NearFutureElectrical-DecayingRTGs"
+		},
+		{
+			"name": "CryoEngines"
+		},
+		{
+			"name": "KerbalAtomics"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "CryoTanks"
+		},
+		{
+			"name": "DeployableEngines"
+		},
+		{
+			"name": "RemoteTechRedevAntennas"
+		},
+		{
+			"name": "ScienceRelay"
+		},
+		{
+			"name": "DiscordRP"
+		},
+		{
+			"name": "FuelTanksPlus"
+		},
+		{
+			"name": "ModularFuelTanks"
+		},
+		{
+			"name": "ColorCodedCans"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
 		}
 	]
 }
