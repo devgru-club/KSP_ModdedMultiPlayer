@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.09.09.31.37",
+	"version": "2019.04.09.09.59.30",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -77,16 +77,13 @@
 			"name": "B9PartSwitch"
 		},
 		{
-			"name": "KXAPI"
-		},
-		{
 			"name": "StationalConstructs"
 		},
 		{
 			"name": "USI-EXP"
 		},
 		{
-			"name": "ColorfulFuelLines"
+			"name": "ToolbarController"
 		},
 		{
 			"name": "USITools"
@@ -128,7 +125,7 @@
 			"name": "QuantumStrutsContinued"
 		},
 		{
-			"name": "ProceduralProbes"
+			"name": "BetterBurnTime"
 		},
 		{
 			"name": "NovaPunchRebalanced"
@@ -185,10 +182,10 @@
 			"name": "MicroSatRevived"
 		},
 		{
-			"name": "PicoPort"
+			"name": "PhotonSailor"
 		},
 		{
-			"name": "PicoPort4AllSizes"
+			"name": "BetterTimeWarpCont"
 		},
 		{
 			"name": "Science-Full-Transmit"
@@ -215,10 +212,10 @@
 			"name": "JSIAdvancedTransparentPods"
 		},
 		{
-			"name": "ScienceAlert"
+			"name": "GPPCloudsHighRes"
 		},
 		{
-			"name": "ToolbarController"
+			"name": "StationPartsExpansion"
 		},
 		{
 			"name": "NearFutureConstruction"
@@ -296,10 +293,10 @@
 			"name": "AVP-2kTextures"
 		},
 		{
-			"name": "CactEyeCommunity"
+			"name": "MoarFEConfigs"
 		},
 		{
-			"name": "CactEyeCommunityDOEPatch"
+			"name": "OrbitalTug"
 		},
 		{
 			"name": "OuterPlanetsMod"
@@ -314,7 +311,7 @@
 			"name": "PlanetShine"
 		},
 		{
-			"name": "BetterTimeWarpCont"
+			"name": "KerbalJointReinforcementContinued"
 		},
 		{
 			"name": "FinalFrontier"
@@ -329,10 +326,7 @@
 			"name": "CommunityTerrainTexturePack"
 		},
 		{
-			"name": "TheWorldBeyond"
-		},
-		{
-			"name": "ProceduralParts"
+			"name": "FilterExtensionsDefaultConfig"
 		},
 		{
 			"name": "ProbesPlus"
@@ -350,7 +344,7 @@
 			"name": "HeatControl"
 		},
 		{
-			"name": "KerbalJointReinforcementContinued"
+			"name": "KSPInterstellarExtended"
 		},
 		{
 			"name": "DMagicScienceAnimate"
