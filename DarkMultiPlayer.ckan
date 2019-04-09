@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.09.07.15.03",
+	"version": "2019.04.09.08.24.25",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -17,13 +17,13 @@
 			"name": "TACLS"
 		},
 		{
-			"name": "SolarScience"
+			"name": "MechJebForAll"
 		},
 		{
 			"name": "SCANsat"
 		},
 		{
-			"name": "SpacetuxSA"
+			"name": "Mk2Expansion"
 		},
 		{
 			"name": "Scatterer-config"
@@ -44,7 +44,7 @@
 			"name": "Mk3Expansion"
 		},
 		{
-			"name": "Mk2Expansion"
+			"name": "SpacetuxSA"
 		},
 		{
 			"name": "MorimeeSystem"
@@ -134,7 +134,7 @@
 			"name": "NovaPunchRebalanced"
 		},
 		{
-			"name": "MechJebForAll"
+			"name": "SolarScience"
 		},
 		{
 			"name": "MechJeb2"
@@ -300,6 +300,84 @@
 		},
 		{
 			"name": "Trajectories"
+		},
+		{
+			"name": "AstronomersVisualPack"
+		},
+		{
+			"name": "AVP-2kTextures"
+		},
+		{
+			"name": "CactEyeCommunity"
+		},
+		{
+			"name": "CactEyeCommunityDOEPatch"
+		},
+		{
+			"name": "OuterPlanetsMod"
+		},
+		{
+			"name": "PlanetCerillion"
+		},
+		{
+			"name": "SigmaBinary-DunaIke"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "LoadingScreenManager"
+		},
+		{
+			"name": "BetterTimeWarpCont"
+		},
+		{
+			"name": "FinalFrontier"
+		},
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "CommunityTerrainTexturePack"
+		},
+		{
+			"name": "SigmaBinary-core"
+		},
+		{
+			"name": "TheWorldBeyond"
+		},
+		{
+			"name": "KS3P"
+		},
+		{
+			"name": "KSPInterstellarExtended"
+		},
+		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "FilterExtensions"
+		},
+		{
+			"name": "PhotonSailor"
+		},
+		{
+			"name": "HideEmptyTechNodes"
+		},
+		{
+			"name": "HeatControl"
+		},
+		{
+			"name": "UniversalStorage"
+		},
+		{
+			"name": "KerbalJointReinforcementContinued"
 		}
 	]
 }
