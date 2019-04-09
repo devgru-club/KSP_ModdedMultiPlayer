@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.09.09.02.10",
+	"version": "2019.04.09.09.31.37",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -206,9 +206,6 @@
 			"name": "NearFutureProps"
 		},
 		{
-			"name": "Targetron"
-		},
-		{
 			"name": "B9AnimationModules"
 		},
 		{
@@ -278,19 +275,10 @@
 			"name": "DiscordRP"
 		},
 		{
-			"name": "FuelTanksPlus"
-		},
-		{
 			"name": "OrbitalColony"
 		},
 		{
-			"name": "ColorCodedCans"
-		},
-		{
 			"name": "InterstellarFuelSwitch-Core"
-		},
-		{
-			"name": "DockingPortSoundFX"
 		},
 		{
 			"name": "KerbolOrigins"
@@ -320,16 +308,10 @@
 			"name": "PlanetCerillion"
 		},
 		{
-			"name": "SigmaBinary-DunaIke"
-		},
-		{
 			"name": "TextureReplacer"
 		},
 		{
 			"name": "PlanetShine"
-		},
-		{
-			"name": "LoadingScreenManager"
 		},
 		{
 			"name": "BetterTimeWarpCont"
@@ -347,9 +329,6 @@
 			"name": "CommunityTerrainTexturePack"
 		},
 		{
-			"name": "SigmaBinary-core"
-		},
-		{
 			"name": "TheWorldBeyond"
 		},
 		{
@@ -365,46 +344,19 @@
 			"name": "FilterExtensions"
 		},
 		{
-			"name": "PhotonSailor"
-		},
-		{
 			"name": "HideEmptyTechNodes"
 		},
 		{
 			"name": "HeatControl"
 		},
 		{
-			"name": "ProbeControlRoomRecontrolled"
-		},
-		{
 			"name": "KerbalJointReinforcementContinued"
-		},
-		{
-			"name": "ActiveTextureManagement-x64-Basic"
-		},
-		{
-			"name": "RN-USProbesPack"
-		},
-		{
-			"name": "RN-USRockets"
-		},
-		{
-			"name": "kOS"
-		},
-		{
-			"name": "BasicProceduralTextures"
-		},
-		{
-			"name": "RasterPropMonitor-Core"
 		},
 		{
 			"name": "DMagicScienceAnimate"
 		},
 		{
 			"name": "BDAnimationModules"
-		},
-		{
-			"name": "TexturesUnlimited"
 		}
 	]
 }
