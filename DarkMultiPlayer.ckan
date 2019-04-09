@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.09.10.42.52",
+	"version": "2019.04.09.11.47.43",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -26,13 +26,7 @@
 			"name": "Mk2Expansion"
 		},
 		{
-			"name": "Scatterer-config"
-		},
-		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "Scatterer"
+			"name": "GPP"
 		},
 		{
 			"name": "KerbalPlanetaryBaseSystems"
@@ -182,9 +176,6 @@
 			"name": "MicroSatRevived"
 		},
 		{
-			"name": "PhotonSailor"
-		},
-		{
 			"name": "BetterTimeWarpCont"
 		},
 		{
@@ -210,9 +201,6 @@
 		},
 		{
 			"name": "JSIAdvancedTransparentPods"
-		},
-		{
-			"name": "GPPCloudsHighRes"
 		},
 		{
 			"name": "StationPartsExpansion"
@@ -257,34 +245,16 @@
 			"name": "Trajectories"
 		},
 		{
-			"name": "AstronomersVisualPack"
-		},
-		{
-			"name": "AVP-2kTextures"
-		},
-		{
 			"name": "MoarFEConfigs"
 		},
 		{
 			"name": "PlanetCerillion"
 		},
 		{
-			"name": "TextureReplacer"
-		},
-		{
-			"name": "PlanetShine"
-		},
-		{
 			"name": "KerbalJointReinforcementContinued"
 		},
 		{
 			"name": "FinalFrontier"
-		},
-		{
-			"name": "PlanetShine-Config-Default"
-		},
-		{
-			"name": "EnvironmentalVisualEnhancements"
 		},
 		{
 			"name": "CommunityTerrainTexturePack"
@@ -312,6 +282,45 @@
 		},
 		{
 			"name": "BDAnimationModules"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "GPPTextures"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "MiporiaPlanetPack"
+		},
+		{
+			"name": "OdysseusPlanetPack"
+		},
+		{
+			"name": "OuterPlanetsMod"
+		},
+		{
+			"name": "PlanetDunope"
+		},
+		{
+			"name": "RhatssPlanetpack"
+		},
+		{
+			"name": "SaruPlanetPack"
 		}
 	]
 }
