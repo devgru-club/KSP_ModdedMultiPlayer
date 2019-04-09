@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.09.08.24.25",
+	"version": "2019.04.09.08.30.05",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -378,6 +378,9 @@
 		},
 		{
 			"name": "KerbalJointReinforcementContinued"
+		},
+		{
+			"name": "ActiveTextureManagement-x64-Basic"
 		}
 	]
 }
