@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.09.02.42.24",
+	"version": "2019.04.09.07.15.03",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -47,9 +47,6 @@
 			"name": "Mk2Expansion"
 		},
 		{
-			"name": "PoodsCalmNebulaSkybox"
-		},
-		{
 			"name": "MorimeeSystem"
 		},
 		{
@@ -89,7 +86,7 @@
 			"name": "USI-EXP"
 		},
 		{
-			"name": "TextureReplacer"
+			"name": "ColorfulFuelLines"
 		},
 		{
 			"name": "USITools"
@@ -284,13 +281,25 @@
 			"name": "FuelTanksPlus"
 		},
 		{
-			"name": "ModularFuelTanks"
+			"name": "OrbitalColony"
 		},
 		{
 			"name": "ColorCodedCans"
 		},
 		{
 			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "DockingPortSoundFX"
+		},
+		{
+			"name": "KerbolOrigins"
+		},
+		{
+			"name": "MissingHistory"
+		},
+		{
+			"name": "Trajectories"
 		}
 	]
 }
