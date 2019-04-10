@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.10.02.42.20",
+	"version": "2019.04.10.06.40.07",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -74,16 +74,10 @@
 			"name": "OPMclouds"
 		},
 		{
-			"name": "KSPInterstellarExtended"
-		},
-		{
 			"name": "PlanetSix"
 		},
 		{
 			"name": "StationalConstructs"
-		},
-		{
-			"name": "Mk2Expansion"
 		},
 		{
 			"name": "B9PartSwitch"
@@ -164,9 +158,6 @@
 			"name": "CryoEngines"
 		},
 		{
-			"name": "StationPartsExpansion"
-		},
-		{
 			"name": "JSIAdvancedTransparentPods"
 		},
 		{
@@ -176,13 +167,7 @@
 			"name": "B9AnimationModules"
 		},
 		{
-			"name": "NearFutureProps"
-		},
-		{
 			"name": "xScienceContinued"
-		},
-		{
-			"name": "StationPartsExpansionRedux"
 		},
 		{
 			"name": "SETI-ProbeParts"
@@ -284,19 +269,7 @@
 			"name": "SpacetuxSA"
 		},
 		{
-			"name": "Mk3Expansion"
-		},
-		{
-			"name": "RaginCaucasian"
-		},
-		{
 			"name": "USI-EXP"
-		},
-		{
-			"name": "PicoPort"
-		},
-		{
-			"name": "PicoPort4AllSizes"
 		},
 		{
 			"name": "KAS"
@@ -338,43 +311,10 @@
 			"name": "Scatterer"
 		},
 		{
-			"name": "PreciseManeuver"
-		},
-		{
-			"name": "NearFutureConstruction"
-		},
-		{
-			"name": "NearFutureElectrical"
-		},
-		{
-			"name": "NearFutureElectrical-Core"
-		},
-		{
-			"name": "NearFutureLaunchVehicles"
-		},
-		{
-			"name": "NearFuturePropulsion"
-		},
-		{
-			"name": "NearFutureSolar"
-		},
-		{
-			"name": "NearFutureSolar-Core"
-		},
-		{
-			"name": "NearFutureSpacecraft"
-		},
-		{
 			"name": "PhotonSailor"
 		},
 		{
 			"name": "HeatControl"
-		},
-		{
-			"name": "KerbalJointReinforcementContinued"
-		},
-		{
-			"name": "AlcubierreStandalone"
 		},
 		{
 			"name": "Kalculator"
