@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.10.01.49.27",
+	"version": "2019.04.10.01.50.09",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -306,6 +306,12 @@
 		},
 		{
 			"name": "ActiveTextureManagement-x64-Basic"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "DistantObject-default"
 		}
 	]
 }
