@@ -3,37 +3,10 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.10.01.05.57",
+	"version": "2019.04.10.01.49.27",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
-		{
-			"name": "PlanetShine-Config-Default"
-		},
-		{
-			"name": "DistantObject-default"
-		},
-		{
-			"name": "PlanetShine"
-		},
-		{
-			"name": "DistantObject"
-		},
-		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "Scatterer-config"
-		},
-		{
-			"name": "AVP-2kTextures"
-		},
-		{
-			"name": "AstronomersVisualPack"
-		},
-		{
-			"name": "StationalConstructs"
-		},
 		{
 			"name": "SaruPlanetPack"
 		},
@@ -44,12 +17,6 @@
 			"name": "PlanetDunope"
 		},
 		{
-			"name": "Mk2Expansion"
-		},
-		{
-			"name": "B9PartSwitch"
-		},
-		{
 			"name": "OuterPlanetsMod"
 		},
 		{
@@ -57,9 +24,6 @@
 		},
 		{
 			"name": "OdysseusPlanetPack"
-		},
-		{
-			"name": "ClickThroughBlocker"
 		},
 		{
 			"name": "OuterKerbin"
@@ -74,6 +38,60 @@
 			"name": "TopiaiSystem"
 		},
 		{
+			"name": "CommunityTerrainTexturePack"
+		},
+		{
+			"name": "KerbolOrigins"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "ThalassaSystem"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "MorimeeSystem"
+		},
+		{
+			"name": "AxisSystem"
+		},
+		{
+			"name": "FeynteraSystem"
+		},
+		{
+			"name": "KerniusSystem"
+		},
+		{
+			"name": "OPMclouds"
+		},
+		{
+			"name": "SentarExpansion"
+		},
+		{
+			"name": "PlanetSix"
+		},
+		{
+			"name": "StationalConstructs"
+		},
+		{
+			"name": "Mk2Expansion"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
 			"name": "TextureReplacer"
 		},
 		{
@@ -81,9 +99,6 @@
 		},
 		{
 			"name": "DMagicScienceAnimate"
-		},
-		{
-			"name": "HeatControl"
 		},
 		{
 			"name": "HideEmptyTechNodes"
@@ -110,13 +125,7 @@
 			"name": "FilterExtensionsDefaultConfig"
 		},
 		{
-			"name": "CommunityTerrainTexturePack"
-		},
-		{
 			"name": "FinalFrontier"
-		},
-		{
-			"name": "PlanetCerillion"
 		},
 		{
 			"name": "MoarFEConfigs"
@@ -126,9 +135,6 @@
 		},
 		{
 			"name": "MissingHistory"
-		},
-		{
-			"name": "KerbolOrigins"
 		},
 		{
 			"name": "InterstellarFuelSwitch-Core"
@@ -224,12 +230,6 @@
 			"name": "KWRocketryRebalanced"
 		},
 		{
-			"name": "MechJeb2"
-		},
-		{
-			"name": "ModularFlightIntegrator"
-		},
-		{
 			"name": "SolarScience"
 		},
 		{
@@ -237,9 +237,6 @@
 		},
 		{
 			"name": "BetterBurnTime"
-		},
-		{
-			"name": "ThalassaSystem"
 		},
 		{
 			"name": "QuantumStrutsContinued"
@@ -260,16 +257,10 @@
 			"name": "UniversalStorage2"
 		},
 		{
-			"name": "ModuleManager"
-		},
-		{
 			"name": "TriggerAu-Flags"
 		},
 		{
 			"name": "CommunityCategoryKit"
-		},
-		{
-			"name": "Kopernicus"
 		},
 		{
 			"name": "CommunityResourcePack"
@@ -290,9 +281,6 @@
 			"name": "Toolbar"
 		},
 		{
-			"name": "MorimeeSystem"
-		},
-		{
 			"name": "SpacetuxSA"
 		},
 		{
@@ -305,34 +293,19 @@
 			"name": "USI-EXP"
 		},
 		{
-			"name": "EnvironmentalVisualEnhancements"
+			"name": "PicoPort"
 		},
 		{
-			"name": "Scatterer"
+			"name": "PicoPort4AllSizes"
 		},
 		{
-			"name": "AxisSystem"
+			"name": "KAS"
 		},
 		{
-			"name": "FeynteraSystem"
+			"name": "BetterTimeWarp"
 		},
 		{
-			"name": "KepsilonKeridani"
-		},
-		{
-			"name": "KerniusSystem"
-		},
-		{
-			"name": "KPlus"
-		},
-		{
-			"name": "OPMclouds"
-		},
-		{
-			"name": "SentarExpansion"
-		},
-		{
-			"name": "PlanetSix"
+			"name": "ActiveTextureManagement-x64-Basic"
 		}
 	]
 }
