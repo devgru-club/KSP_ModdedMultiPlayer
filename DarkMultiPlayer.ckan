@@ -3,330 +3,330 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.09.11.59.54",
+	"version": "2019.04.10.12.31.11",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
 		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "Scatterer"
-		},
-		{
-			"name": "Scatterer-config"
-		},
-		{
-			"name": "KerbalEngineerRedux"
-		},
-		{
-			"name": "BackgroundResources"
-		},
-		{
-			"name": "TACLS"
-		},
-		{
-			"name": "MechJebForAll"
-		},
-		{
-			"name": "SCANsat"
-		},
-		{
-			"name": "Mk2Expansion"
-		},
-		{
-			"name": "GPP"
-		},
-		{
-			"name": "KerbalPlanetaryBaseSystems"
-		},
-		{
-			"name": "RaginCaucasian"
-		},
-		{
-			"name": "Mk3Expansion"
-		},
-		{
-			"name": "SpacetuxSA"
-		},
-		{
-			"name": "MorimeeSystem"
-		},
-		{
-			"name": "Toolbar"
-		},
-		{
-			"name": "ThalassaSystem"
-		},
-		{
-			"name": "ModularFlightIntegrator"
-		},
-		{
-			"name": "TopiaiSystem"
-		},
-		{
-			"name": "VarutaSystem"
-		},
-		{
-			"name": "OuterKerbin"
-		},
-		{
-			"name": "ClickThroughBlocker"
-		},
-		{
-			"name": "Atoren"
-		},
-		{
-			"name": "B9PartSwitch"
-		},
-		{
-			"name": "StationalConstructs"
-		},
-		{
-			"name": "USI-EXP"
-		},
-		{
-			"name": "ToolbarController"
-		},
-		{
-			"name": "USITools"
-		},
-		{
-			"name": "FirespitterCore"
-		},
-		{
-			"name": "CommunityResourcePack"
-		},
-		{
-			"name": "Kopernicus"
-		},
-		{
-			"name": "CommunityCategoryKit"
-		},
-		{
-			"name": "TriggerAu-Flags"
-		},
-		{
-			"name": "ModuleManager"
-		},
-		{
-			"name": "UniversalStorage2"
-		},
-		{
-			"name": "TweakScale"
-		},
-		{
-			"name": "ShuttleLiftingBodyCormorantAeronology"
-		},
-		{
-			"name": "ReStockPlus"
-		},
-		{
-			"name": "ReStock"
-		},
-		{
-			"name": "QuantumStrutsContinued"
-		},
-		{
-			"name": "BetterBurnTime"
-		},
-		{
-			"name": "NovaPunchRebalanced"
-		},
-		{
-			"name": "SolarScience"
-		},
-		{
-			"name": "MechJeb2"
-		},
-		{
-			"name": "KWRocketryRebalanced"
-		},
-		{
-			"name": "KIS"
-		},
-		{
-			"name": "KerbnetController"
-		},
-		{
-			"name": "KerbalAlarmClock"
-		},
-		{
-			"name": "EVATransfer"
-		},
-		{
-			"name": "EVAStruts"
-		},
-		{
-			"name": "DockingPortAlignmentIndicator"
-		},
-		{
-			"name": "DMagicOrbitalScience"
+			"name": "PlanetShine-Config-Default"
 		},
 		{
 			"name": "DistantObject-default"
 		},
 		{
-			"name": "DistantObject"
-		},
-		{
-			"name": "DarkMultiPlayer"
-		},
-		{
-			"name": "CommunityTechTree"
-		},
-		{
-			"name": "FlexibleDocking"
-		},
-		{
-			"name": "Konstruction"
-		},
-		{
-			"name": "MicroSatRevived"
-		},
-		{
-			"name": "BetterTimeWarpCont"
-		},
-		{
-			"name": "Science-Full-Transmit"
-		},
-		{
-			"name": "SETI-ProbeParts"
-		},
-		{
-			"name": "StationPartsExpansionRedux"
-		},
-		{
-			"name": "xScienceContinued"
-		},
-		{
-			"name": "NearFutureProps"
-		},
-		{
-			"name": "B9AnimationModules"
-		},
-		{
-			"name": "PatchManager"
-		},
-		{
-			"name": "JSIAdvancedTransparentPods"
-		},
-		{
-			"name": "StationPartsExpansion"
-		},
-		{
-			"name": "CryoEngines"
-		},
-		{
-			"name": "KerbalAtomics"
-		},
-		{
-			"name": "DynamicBatteryStorage"
-		},
-		{
-			"name": "CryoTanks"
-		},
-		{
-			"name": "DeployableEngines"
-		},
-		{
-			"name": "RemoteTechRedevAntennas"
-		},
-		{
-			"name": "ScienceRelay"
-		},
-		{
-			"name": "DiscordRP"
-		},
-		{
-			"name": "OrbitalColony"
-		},
-		{
-			"name": "InterstellarFuelSwitch-Core"
-		},
-		{
-			"name": "KerbolOrigins"
-		},
-		{
-			"name": "MissingHistory"
-		},
-		{
-			"name": "Trajectories"
-		},
-		{
-			"name": "MoarFEConfigs"
-		},
-		{
-			"name": "PlanetCerillion"
-		},
-		{
-			"name": "KerbalJointReinforcementContinued"
-		},
-		{
-			"name": "FinalFrontier"
-		},
-		{
-			"name": "CommunityTerrainTexturePack"
-		},
-		{
-			"name": "FilterExtensionsDefaultConfig"
-		},
-		{
-			"name": "ProbesPlus"
-		},
-		{
-			"name": "InterstellarFuelSwitch"
-		},
-		{
-			"name": "FilterExtensions"
-		},
-		{
-			"name": "HideEmptyTechNodes"
-		},
-		{
-			"name": "HeatControl"
-		},
-		{
-			"name": "DMagicScienceAnimate"
-		},
-		{
-			"name": "BDAnimationModules"
-		},
-		{
-			"name": "GPPTextures"
-		},
-		{
-			"name": "TextureReplacer"
-		},
-		{
 			"name": "PlanetShine"
 		},
 		{
-			"name": "PlanetShine-Config-Default"
+			"name": "DistantObject"
 		},
 		{
-			"name": "EnvironmentalVisualEnhancements"
+			"name": "Scatterer-sunflare"
 		},
 		{
-			"name": "MiporiaPlanetPack"
+			"name": "Scatterer-config"
 		},
 		{
-			"name": "OdysseusPlanetPack"
+			"name": "AVP-2kTextures"
 		},
 		{
-			"name": "OuterPlanetsMod"
+			"name": "AstronomersVisualPack"
 		},
 		{
-			"name": "PlanetDunope"
+			"name": "PreciseNode"
 		},
 		{
-			"name": "RhatssPlanetpack"
+			"name": "StationalConstructs"
 		},
 		{
 			"name": "SaruPlanetPack"
 		},
 		{
-			"name": "PreciseNode"
+			"name": "RhatssPlanetpack"
+		},
+		{
+			"name": "PlanetDunope"
+		},
+		{
+			"name": "Mk2Expansion"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "OuterPlanetsMod"
+		},
+		{
+			"name": "Atoren"
+		},
+		{
+			"name": "OdysseusPlanetPack"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "OuterKerbin"
+		},
+		{
+			"name": "VarutaSystem"
+		},
+		{
+			"name": "MiporiaPlanetPack"
+		},
+		{
+			"name": "TopiaiSystem"
+		},
+		{
+			"name": "TextureReplacer"
+		},
+		{
+			"name": "BDAnimationModules"
+		},
+		{
+			"name": "DMagicScienceAnimate"
+		},
+		{
+			"name": "HeatControl"
+		},
+		{
+			"name": "HideEmptyTechNodes"
+		},
+		{
+			"name": "FilterExtensions"
+		},
+		{
+			"name": "KerbalPlanetaryBaseSystems"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "ProbesPlus"
+		},
+		{
+			"name": "FilterExtensionsDefaultConfig"
+		},
+		{
+			"name": "CommunityTerrainTexturePack"
+		},
+		{
+			"name": "FinalFrontier"
+		},
+		{
+			"name": "KerbalJointReinforcementContinued"
+		},
+		{
+			"name": "PlanetCerillion"
+		},
+		{
+			"name": "MoarFEConfigs"
+		},
+		{
+			"name": "Trajectories"
+		},
+		{
+			"name": "MissingHistory"
+		},
+		{
+			"name": "KerbolOrigins"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "OrbitalColony"
+		},
+		{
+			"name": "DiscordRP"
+		},
+		{
+			"name": "ScienceRelay"
+		},
+		{
+			"name": "RemoteTechRedevAntennas"
+		},
+		{
+			"name": "DeployableEngines"
+		},
+		{
+			"name": "CryoTanks"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "KerbalAtomics"
+		},
+		{
+			"name": "CryoEngines"
+		},
+		{
+			"name": "StationPartsExpansion"
+		},
+		{
+			"name": "JSIAdvancedTransparentPods"
+		},
+		{
+			"name": "PatchManager"
+		},
+		{
+			"name": "B9AnimationModules"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "xScienceContinued"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "SETI-ProbeParts"
+		},
+		{
+			"name": "Science-Full-Transmit"
+		},
+		{
+			"name": "BetterTimeWarpCont"
+		},
+		{
+			"name": "MicroSatRevived"
+		},
+		{
+			"name": "Konstruction"
+		},
+		{
+			"name": "TACLS"
+		},
+		{
+			"name": "FlexibleDocking"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "DarkMultiPlayer"
+		},
+		{
+			"name": "DMagicOrbitalScience"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "EVAStruts"
+		},
+		{
+			"name": "EVATransfer"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "KerbnetController"
+		},
+		{
+			"name": "KIS"
+		},
+		{
+			"name": "KWRocketryRebalanced"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "SolarScience"
+		},
+		{
+			"name": "NovaPunchRebalanced"
+		},
+		{
+			"name": "BetterBurnTime"
+		},
+		{
+			"name": "ThalassaSystem"
+		},
+		{
+			"name": "QuantumStrutsContinued"
+		},
+		{
+			"name": "ReStock"
+		},
+		{
+			"name": "ReStockPlus"
+		},
+		{
+			"name": "ShuttleLiftingBodyCormorantAeronology"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "UniversalStorage2"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "TriggerAu-Flags"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "BackgroundResources"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "MorimeeSystem"
+		},
+		{
+			"name": "SpacetuxSA"
+		},
+		{
+			"name": "Mk3Expansion"
+		},
+		{
+			"name": "RaginCaucasian"
+		},
+		{
+			"name": "USI-EXP"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "Scatterer"
 		}
 	]
 }
