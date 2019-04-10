@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.10.06.40.07",
+	"version": "2019.04.10.11.15.33",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -278,9 +278,6 @@
 			"name": "BetterTimeWarp"
 		},
 		{
-			"name": "ActiveTextureManagement-x64-Basic"
-		},
-		{
 			"name": "DistantObject"
 		},
 		{
@@ -342,6 +339,63 @@
 		},
 		{
 			"name": "ConfigurableContainers-Core"
+		},
+		{
+			"name": "KSPInterstellarExtended"
+		},
+		{
+			"name": "NearFutureConstruction"
+		},
+		{
+			"name": "NearFutureElectrical"
+		},
+		{
+			"name": "NearFutureElectrical-Core"
+		},
+		{
+			"name": "NearFutureElectrical-DecayingRTGs"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "NearFuturePropulsion"
+		},
+		{
+			"name": "NearFuturePropulsionExtras"
+		},
+		{
+			"name": "NearFuturePropulsion-LowThrustEP"
+		},
+		{
+			"name": "NearFuturePropulsion-XenonHETs"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFutureSolar-Core"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "NearFutureSpacecraft-OrbitalLFOEngines"
+		},
+		{
+			"name": "PersistentRotation"
+		},
+		{
+			"name": "KerbalJointReinforcementContinued"
+		},
+		{
+			"name": "StationPartsExpansion"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
 		}
 	]
 }
