@@ -3,37 +3,10 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.10.01.06.11",
+	"version": "2019.04.10.01.14.11",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
-		{
-			"name": "PlanetShine-Config-Default"
-		},
-		{
-			"name": "DistantObject-default"
-		},
-		{
-			"name": "PlanetShine"
-		},
-		{
-			"name": "DistantObject"
-		},
-		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "Scatterer-config"
-		},
-		{
-			"name": "AVP-2kTextures"
-		},
-		{
-			"name": "AstronomersVisualPack"
-		},
-		{
-			"name": "StationalConstructs"
-		},
 		{
 			"name": "SaruPlanetPack"
 		},
@@ -44,12 +17,6 @@
 			"name": "PlanetDunope"
 		},
 		{
-			"name": "Mk2Expansion"
-		},
-		{
-			"name": "B9PartSwitch"
-		},
-		{
 			"name": "OuterPlanetsMod"
 		},
 		{
@@ -57,9 +24,6 @@
 		},
 		{
 			"name": "OdysseusPlanetPack"
-		},
-		{
-			"name": "ClickThroughBlocker"
 		},
 		{
 			"name": "OuterKerbin"
@@ -74,154 +38,13 @@
 			"name": "TopiaiSystem"
 		},
 		{
-			"name": "TextureReplacer"
-		},
-		{
-			"name": "BDAnimationModules"
-		},
-		{
-			"name": "DMagicScienceAnimate"
-		},
-		{
-			"name": "HeatControl"
-		},
-		{
-			"name": "HideEmptyTechNodes"
-		},
-		{
-			"name": "FilterExtensions"
-		},
-		{
-			"name": "KerbalPlanetaryBaseSystems"
-		},
-		{
-			"name": "SCANsat"
-		},
-		{
-			"name": "InterstellarFuelSwitch"
-		},
-		{
-			"name": "MechJebForAll"
-		},
-		{
-			"name": "ProbesPlus"
-		},
-		{
-			"name": "FilterExtensionsDefaultConfig"
-		},
-		{
 			"name": "CommunityTerrainTexturePack"
-		},
-		{
-			"name": "FinalFrontier"
 		},
 		{
 			"name": "PlanetCerillion"
 		},
 		{
-			"name": "MoarFEConfigs"
-		},
-		{
-			"name": "Trajectories"
-		},
-		{
-			"name": "MissingHistory"
-		},
-		{
 			"name": "KerbolOrigins"
-		},
-		{
-			"name": "InterstellarFuelSwitch-Core"
-		},
-		{
-			"name": "DiscordRP"
-		},
-		{
-			"name": "ScienceRelay"
-		},
-		{
-			"name": "RemoteTechRedevAntennas"
-		},
-		{
-			"name": "DeployableEngines"
-		},
-		{
-			"name": "CryoTanks"
-		},
-		{
-			"name": "DynamicBatteryStorage"
-		},
-		{
-			"name": "KerbalAtomics"
-		},
-		{
-			"name": "CryoEngines"
-		},
-		{
-			"name": "StationPartsExpansion"
-		},
-		{
-			"name": "JSIAdvancedTransparentPods"
-		},
-		{
-			"name": "PatchManager"
-		},
-		{
-			"name": "B9AnimationModules"
-		},
-		{
-			"name": "NearFutureProps"
-		},
-		{
-			"name": "xScienceContinued"
-		},
-		{
-			"name": "StationPartsExpansionRedux"
-		},
-		{
-			"name": "SETI-ProbeParts"
-		},
-		{
-			"name": "Science-Full-Transmit"
-		},
-		{
-			"name": "MicroSatRevived"
-		},
-		{
-			"name": "Konstruction"
-		},
-		{
-			"name": "TACLS"
-		},
-		{
-			"name": "FlexibleDocking"
-		},
-		{
-			"name": "CommunityTechTree"
-		},
-		{
-			"name": "DarkMultiPlayer"
-		},
-		{
-			"name": "DMagicOrbitalScience"
-		},
-		{
-			"name": "DockingPortAlignmentIndicator"
-		},
-		{
-			"name": "EVAStruts"
-		},
-		{
-			"name": "EVATransfer"
-		},
-		{
-			"name": "KerbalAlarmClock"
-		},
-		{
-			"name": "KIS"
-		},
-		{
-			"name": "KWRocketryRebalanced"
 		},
 		{
 			"name": "MechJeb2"
@@ -230,85 +53,16 @@
 			"name": "ModularFlightIntegrator"
 		},
 		{
-			"name": "SolarScience"
-		},
-		{
-			"name": "NovaPunchRebalanced"
-		},
-		{
-			"name": "BetterBurnTime"
-		},
-		{
 			"name": "ThalassaSystem"
-		},
-		{
-			"name": "QuantumStrutsContinued"
-		},
-		{
-			"name": "ReStock"
-		},
-		{
-			"name": "ReStockPlus"
-		},
-		{
-			"name": "ShuttleLiftingBodyCormorantAeronology"
-		},
-		{
-			"name": "TweakScale"
-		},
-		{
-			"name": "UniversalStorage2"
 		},
 		{
 			"name": "ModuleManager"
 		},
 		{
-			"name": "TriggerAu-Flags"
-		},
-		{
-			"name": "CommunityCategoryKit"
-		},
-		{
 			"name": "Kopernicus"
 		},
 		{
-			"name": "CommunityResourcePack"
-		},
-		{
-			"name": "BackgroundResources"
-		},
-		{
-			"name": "KerbalEngineerRedux"
-		},
-		{
-			"name": "FirespitterCore"
-		},
-		{
-			"name": "USITools"
-		},
-		{
-			"name": "Toolbar"
-		},
-		{
 			"name": "MorimeeSystem"
-		},
-		{
-			"name": "SpacetuxSA"
-		},
-		{
-			"name": "Mk3Expansion"
-		},
-		{
-			"name": "RaginCaucasian"
-		},
-		{
-			"name": "USI-EXP"
-		},
-		{
-			"name": "EnvironmentalVisualEnhancements"
-		},
-		{
-			"name": "Scatterer"
 		},
 		{
 			"name": "AxisSystem"
