@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.10.01.18.45",
+	"version": "2019.04.10.01.37.45",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -68,13 +68,7 @@
 			"name": "FeynteraSystem"
 		},
 		{
-			"name": "KepsilonKeridani"
-		},
-		{
 			"name": "KerniusSystem"
-		},
-		{
-			"name": "KPlus"
 		},
 		{
 			"name": "OPMclouds"
