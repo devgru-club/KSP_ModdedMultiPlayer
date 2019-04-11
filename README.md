@@ -8,7 +8,8 @@ You are going to need more than 8Gb of RAM to play on our server because KSP has
 - Port 6702 needs to be forwarded in your router
 
 # Install
-```git clone https://github.com/diveyez/KSP_ModdedMultiPlayer/tree/master && cd KSP_ModdedMultiPlayer && sudo bash install
+```
+git clone https://github.com/diveyez/KSP_ModdedMultiPlayer/tree/master && cd KSP_ModdedMultiPlayer && sudo bash install
 ```
 
 You, of course, need to setup the configuration and more information on how to do that can be found here: <a href="http://d-mp.org/w/Main_Page">DMP Wiki</a>
