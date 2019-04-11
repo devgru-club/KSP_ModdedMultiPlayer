@@ -3,46 +3,10 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.11.01.21.51",
+	"version": "2019.04.11.08.22.43",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
-		{
-			"name": "SaruPlanetPack"
-		},
-		{
-			"name": "RhatssPlanetpack"
-		},
-		{
-			"name": "PlanetDunope"
-		},
-		{
-			"name": "OuterPlanetsMod"
-		},
-		{
-			"name": "Atoren"
-		},
-		{
-			"name": "OdysseusPlanetPack"
-		},
-		{
-			"name": "OuterKerbin"
-		},
-		{
-			"name": "VarutaSystem"
-		},
-		{
-			"name": "MiporiaPlanetPack"
-		},
-		{
-			"name": "TopiaiSystem"
-		},
-		{
-			"name": "CommunityTerrainTexturePack"
-		},
-		{
-			"name": "KerbolOrigins"
-		},
 		{
 			"name": "MechJeb2"
 		},
@@ -50,34 +14,7 @@
 			"name": "ModularFlightIntegrator"
 		},
 		{
-			"name": "ThalassaSystem"
-		},
-		{
 			"name": "ModuleManager"
-		},
-		{
-			"name": "Kopernicus"
-		},
-		{
-			"name": "MorimeeSystem"
-		},
-		{
-			"name": "AxisSystem"
-		},
-		{
-			"name": "FeynteraSystem"
-		},
-		{
-			"name": "KerniusSystem"
-		},
-		{
-			"name": "PlanetSix"
-		},
-		{
-			"name": "StationalConstructs"
-		},
-		{
-			"name": "B9PartSwitch"
 		},
 		{
 			"name": "ClickThroughBlocker"
@@ -86,25 +23,13 @@
 			"name": "TextureReplacer"
 		},
 		{
-			"name": "BDAnimationModules"
-		},
-		{
 			"name": "DMagicScienceAnimate"
 		},
 		{
 			"name": "HideEmptyTechNodes"
 		},
 		{
-			"name": "FilterExtensions"
-		},
-		{
-			"name": "KerbalPlanetaryBaseSystems"
-		},
-		{
 			"name": "SCANsat"
-		},
-		{
-			"name": "InterstellarFuelSwitch"
 		},
 		{
 			"name": "MechJebForAll"
@@ -113,22 +38,10 @@
 			"name": "ProbesPlus"
 		},
 		{
-			"name": "FilterExtensionsDefaultConfig"
-		},
-		{
 			"name": "FinalFrontier"
 		},
 		{
-			"name": "MoarFEConfigs"
-		},
-		{
-			"name": "Trajectories"
-		},
-		{
 			"name": "MissingHistory"
-		},
-		{
-			"name": "InterstellarFuelSwitch-Core"
 		},
 		{
 			"name": "DiscordRP"
@@ -140,33 +53,6 @@
 			"name": "RemoteTechRedevAntennas"
 		},
 		{
-			"name": "DeployableEngines"
-		},
-		{
-			"name": "CryoTanks"
-		},
-		{
-			"name": "DynamicBatteryStorage"
-		},
-		{
-			"name": "KerbalAtomics"
-		},
-		{
-			"name": "CryoEngines"
-		},
-		{
-			"name": "JSIAdvancedTransparentPods"
-		},
-		{
-			"name": "PatchManager"
-		},
-		{
-			"name": "B9AnimationModules"
-		},
-		{
-			"name": "xScienceContinued"
-		},
-		{
 			"name": "SETI-ProbeParts"
 		},
 		{
@@ -176,13 +62,7 @@
 			"name": "MicroSatRevived"
 		},
 		{
-			"name": "Konstruction"
-		},
-		{
 			"name": "TACLS"
-		},
-		{
-			"name": "FlexibleDocking"
 		},
 		{
 			"name": "CommunityTechTree"
@@ -218,28 +98,13 @@
 			"name": "NovaPunchRebalanced"
 		},
 		{
-			"name": "BetterBurnTime"
-		},
-		{
 			"name": "QuantumStrutsContinued"
-		},
-		{
-			"name": "ReStock"
-		},
-		{
-			"name": "ReStockPlus"
-		},
-		{
-			"name": "ShuttleLiftingBodyCormorantAeronology"
 		},
 		{
 			"name": "TweakScale"
 		},
 		{
 			"name": "UniversalStorage2"
-		},
-		{
-			"name": "TriggerAu-Flags"
 		},
 		{
 			"name": "CommunityCategoryKit"
@@ -257,22 +122,10 @@
 			"name": "FirespitterCore"
 		},
 		{
-			"name": "USITools"
-		},
-		{
 			"name": "Toolbar"
 		},
 		{
-			"name": "SpacetuxSA"
-		},
-		{
-			"name": "USI-EXP"
-		},
-		{
 			"name": "KAS"
-		},
-		{
-			"name": "BetterTimeWarp"
 		},
 		{
 			"name": "DistantObject"
@@ -281,16 +134,46 @@
 			"name": "DistantObject-default"
 		},
 		{
-			"name": "PhotonSailor"
-		},
-		{
-			"name": "HeatControl"
-		},
-		{
 			"name": "Kalculator"
 		},
 		{
-			"name": "MalemuteRover"
+			"name": "CommunityTerrainTexturePack"
+		},
+		{
+			"name": "RasterPropMonitor-Core"
+		},
+		{
+			"name": "RasterPropMonitor"
+		},
+		{
+			"name": "Decalc-o-mania"
+		},
+		{
+			"name": "KSPInterstellarExtended"
+		},
+		{
+			"name": "PatchManager"
+		},
+		{
+			"name": "InterstellarFuelSwitch"
+		},
+		{
+			"name": "PersistentRotation"
+		},
+		{
+			"name": "FilterExtensions"
+		},
+		{
+			"name": "PhotonSailor"
+		},
+		{
+			"name": "BetterBurnTime"
+		},
+		{
+			"name": "InterstellarFuelSwitch-Core"
+		},
+		{
+			"name": "AlcubierreStandalone"
 		},
 		{
 			"name": "SoundingRockets"
@@ -299,10 +182,16 @@
 			"name": "UKS"
 		},
 		{
+			"name": "USI-NuclearRockets"
+		},
+		{
+			"name": "USITools"
+		},
+		{
 			"name": "USI-Core"
 		},
 		{
-			"name": "USI-NuclearRockets"
+			"name": "Konstruction"
 		},
 		{
 			"name": "GroundConstruction-Core"
@@ -314,13 +203,7 @@
 			"name": "ConfigurableContainers-Core"
 		},
 		{
-			"name": "KSPInterstellarExtended"
-		},
-		{
 			"name": "NearFutureConstruction"
-		},
-		{
-			"name": "NearFutureElectrical"
 		},
 		{
 			"name": "NearFutureElectrical-Core"
@@ -336,9 +219,6 @@
 		},
 		{
 			"name": "NearFuturePropulsion"
-		},
-		{
-			"name": "NearFuturePropulsionExtras"
 		},
 		{
 			"name": "NearFuturePropulsion-LowThrustEP"
@@ -359,22 +239,46 @@
 			"name": "NearFutureSpacecraft-OrbitalLFOEngines"
 		},
 		{
-			"name": "PersistentRotation"
-		},
-		{
-			"name": "KerbalJointReinforcementContinued"
+			"name": "NearFutureElectrical"
 		},
 		{
 			"name": "StationPartsExpansion"
 		},
 		{
+			"name": "CryoEngines"
+		},
+		{
+			"name": "KerbalAtomics"
+		},
+		{
 			"name": "StationPartsExpansionRedux"
 		},
 		{
-			"name": "AlcubierreStandalone"
+			"name": "B9PartSwitch"
 		},
 		{
-			"name": "kOS"
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "CryoTanks"
+		},
+		{
+			"name": "DeployableEngines"
+		},
+		{
+			"name": "xScienceContinued"
+		},
+		{
+			"name": "ScienceAlert"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "KrakenScience"
+		},
+		{
+			"name": "Targetron"
 		}
 	]
 }
