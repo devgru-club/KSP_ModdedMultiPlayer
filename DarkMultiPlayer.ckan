@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.10.11.15.33",
+	"version": "2019.04.11.01.21.51",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -69,9 +69,6 @@
 		},
 		{
 			"name": "KerniusSystem"
-		},
-		{
-			"name": "OPMclouds"
 		},
 		{
 			"name": "PlanetSix"
@@ -284,30 +281,6 @@
 			"name": "DistantObject-default"
 		},
 		{
-			"name": "AstronomersVisualPack"
-		},
-		{
-			"name": "AVP-2kTextures"
-		},
-		{
-			"name": "Scatterer-config"
-		},
-		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "PlanetShine"
-		},
-		{
-			"name": "PlanetShine-Config-Default"
-		},
-		{
-			"name": "EnvironmentalVisualEnhancements"
-		},
-		{
-			"name": "Scatterer"
-		},
-		{
 			"name": "PhotonSailor"
 		},
 		{
@@ -396,6 +369,12 @@
 		},
 		{
 			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "AlcubierreStandalone"
+		},
+		{
+			"name": "kOS"
 		}
 	]
 }
