@@ -10,3 +10,5 @@ git clone https://github.com/diveyez/KSP_ModdedMultiPlayer/tree/master && cd KSP
 ```
 
 You, of course, need to setup the configuration and more information on how to do that can be found here: <a href="http://d-mp.org/w/Main_Page">DMP Wiki</a>
+
+- Updating Webhooks for Discord.
