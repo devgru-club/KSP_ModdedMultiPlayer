@@ -5,7 +5,7 @@ mkdir DMPServer && wget https://d-mp.org/downloads/release/latest/DMPServer.zip 
 echo "Getting server reporting and public listing plugin";
 wget http://godarklight.info.tm/dmp/downloads/plugins/DMPServerListReporter2/DMPServerListReporter.dll
 echo "Installing dependencies..."
-sudo apt install mono-runtime monodevelopment -y
+sudo apt install mono-runtime mono-devel -y
 echo "You need to Ctrl+c after this initial server start, it is unpacking things..."
 mono DMPServer.exe
 echo "Please Ctrl+c now!"
