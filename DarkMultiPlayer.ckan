@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.11.08.22.43",
+	"version": "2019.04.22.08.20.18",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -26,7 +26,7 @@
 			"name": "DMagicScienceAnimate"
 		},
 		{
-			"name": "HideEmptyTechNodes"
+			"name": "KSPInterstellarExtended"
 		},
 		{
 			"name": "SCANsat"
@@ -65,10 +65,10 @@
 			"name": "TACLS"
 		},
 		{
-			"name": "CommunityTechTree"
+			"name": "xScienceContinued"
 		},
 		{
-			"name": "DarkMultiPlayer"
+			"name": "DeployableEngines"
 		},
 		{
 			"name": "DMagicOrbitalScience"
@@ -104,7 +104,7 @@
 			"name": "TweakScale"
 		},
 		{
-			"name": "UniversalStorage2"
+			"name": "CryoTanks"
 		},
 		{
 			"name": "CommunityCategoryKit"
@@ -149,13 +149,13 @@
 			"name": "Decalc-o-mania"
 		},
 		{
-			"name": "KSPInterstellarExtended"
+			"name": "DynamicBatteryStorage"
 		},
 		{
 			"name": "PatchManager"
 		},
 		{
-			"name": "InterstellarFuelSwitch"
+			"name": "B9PartSwitch"
 		},
 		{
 			"name": "PersistentRotation"
@@ -164,13 +164,13 @@
 			"name": "FilterExtensions"
 		},
 		{
-			"name": "PhotonSailor"
+			"name": "NearFutureElectrical"
 		},
 		{
 			"name": "BetterBurnTime"
 		},
 		{
-			"name": "InterstellarFuelSwitch-Core"
+			"name": "NearFutureSpacecraft-OrbitalLFOEngines"
 		},
 		{
 			"name": "AlcubierreStandalone"
@@ -206,25 +206,25 @@
 			"name": "NearFutureConstruction"
 		},
 		{
-			"name": "NearFutureElectrical-Core"
+			"name": "NearFutureSpacecraft"
 		},
 		{
-			"name": "NearFutureElectrical-DecayingRTGs"
-		},
-		{
-			"name": "NearFutureLaunchVehicles"
-		},
-		{
-			"name": "NearFutureProps"
+			"name": "NearFuturePropulsion-XenonHETs"
 		},
 		{
 			"name": "NearFuturePropulsion"
 		},
 		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "NearFutureLaunchVehicles"
+		},
+		{
 			"name": "NearFuturePropulsion-LowThrustEP"
 		},
 		{
-			"name": "NearFuturePropulsion-XenonHETs"
+			"name": "NearFutureElectrical-DecayingRTGs"
 		},
 		{
 			"name": "NearFutureSolar"
@@ -233,13 +233,13 @@
 			"name": "NearFutureSolar-Core"
 		},
 		{
-			"name": "NearFutureSpacecraft"
+			"name": "NearFutureElectrical-Core"
 		},
 		{
-			"name": "NearFutureSpacecraft-OrbitalLFOEngines"
+			"name": "InterstellarFuelSwitch-Core"
 		},
 		{
-			"name": "NearFutureElectrical"
+			"name": "PhotonSailor"
 		},
 		{
 			"name": "StationPartsExpansion"
@@ -254,19 +254,19 @@
 			"name": "StationPartsExpansionRedux"
 		},
 		{
-			"name": "B9PartSwitch"
+			"name": "InterstellarFuelSwitch"
 		},
 		{
-			"name": "DynamicBatteryStorage"
+			"name": "HideEmptyTechNodes"
 		},
 		{
-			"name": "CryoTanks"
+			"name": "UniversalStorage2"
 		},
 		{
-			"name": "DeployableEngines"
+			"name": "DarkMultiPlayer"
 		},
 		{
-			"name": "xScienceContinued"
+			"name": "CommunityTechTree"
 		},
 		{
 			"name": "ScienceAlert"
@@ -279,6 +279,69 @@
 		},
 		{
 			"name": "Targetron"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "SaruPlanetPack"
+		},
+		{
+			"name": "RhatssPlanetpack"
+		},
+		{
+			"name": "PlanetDunope"
+		},
+		{
+			"name": "OuterPlanetsMod"
+		},
+		{
+			"name": "Atoren"
+		},
+		{
+			"name": "OdysseusPlanetPack"
+		},
+		{
+			"name": "OuterKerbin"
+		},
+		{
+			"name": "VarutaSystem"
+		},
+		{
+			"name": "MiporiaPlanetPack"
+		},
+		{
+			"name": "TopiaiSystem"
+		},
+		{
+			"name": "KerbolOrigins"
+		},
+		{
+			"name": "ThalassaSystem"
+		},
+		{
+			"name": "MorimeeSystem"
+		},
+		{
+			"name": "AxisSystem"
+		},
+		{
+			"name": "FeynteraSystem"
+		},
+		{
+			"name": "KerniusSystem"
+		},
+		{
+			"name": "OPMclouds"
+		},
+		{
+			"name": "SentarExpansion"
+		},
+		{
+			"name": "PlanetSix"
+		},
+		{
+			"name": "CryoTanks-Core"
 		}
 	]
 }
