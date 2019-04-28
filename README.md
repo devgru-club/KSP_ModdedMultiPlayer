@@ -1,9 +1,7 @@
-# HOW TO SETUP A MULTIPLAYER KERBAL SPACE PROGRAM SERVER ON LINUX
-
+# DEVGRU Kerbal Space Program Public Multiplayer Server
 # Server Setup
-- The following is how to install the required parts for DarkMultiPlayer and the Mods needed for my server. You only need DarkMultiPlayer to do this without all the mods we play with here.
-- Port 6702 needs to be forwarded in your router
-
+-   The following is how to install the required parts for DarkMultiPlayer and the Mods needed for my server. You only need DarkMultiPlayer to do this without all the mods we play with here.
+-   Port 6702 needs to be forwarded in your router
 # Install
 ```
 git clone https://github.com/diveyez/KSP_ModdedMultiPlayer/tree/master && cd KSP_ModdedMultiPlayer && sudo bash install
