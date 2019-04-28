@@ -1,7 +1,7 @@
 # HOW TO SETUP A MULTIPLAYER KERBAL SPACE PROGRAM SERVER ON LINUX
 
 # Server Setup
-- The following is how to install the required parts for DarkMultiPlayer and the Mods needed for my server. You only need DarkMultiPlayer to do this without all my mods.
+- The following is how to install the required parts for DarkMultiPlayer and the Mods needed for my server. You only need DarkMultiPlayer to do this without all the mods we play with here.
 - Port 6702 needs to be forwarded in your router
 
 # Install
