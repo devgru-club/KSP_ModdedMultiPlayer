@@ -1,5 +1,4 @@
 !/bin/bash
-
 echo"Getting Server Package";
 mkdir DMPServer && wget https://d-mp.org/downloads/release/latest/DMPServer.zip && unzip DMPServer.zip
 echo "Getting server reporting and public listing plugin";
