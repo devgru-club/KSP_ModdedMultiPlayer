@@ -3,7 +3,7 @@
 	"abstract": "A list of modules installed on the portable KSP instance",
 	"name": "installed-portable",
 	"license": "unknown",
-	"version": "2019.04.28.11.20.30",
+	"version": "2019.06.04.05.33.20",
 	"identifier": "installed-portable",
 	"spec_version": "v1.6",
 	"recommends": [
